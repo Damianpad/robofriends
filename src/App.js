@@ -19,6 +19,7 @@ function App() {
         </a>
         <p>This paragraph was created with my Mac.</p>
         <p>This paragraph was created with my PC</p>
+        <p>This is my second change made on my PC</p>
       </header>
     </div>
   );
