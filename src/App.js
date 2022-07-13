@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <p>This paragraph was created with my Mac.</p>
+        <p>This paragraph was created with my PC</p>
       </header>
     </div>
   );
